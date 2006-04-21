@@ -17,7 +17,7 @@ use strict;
 
 use vars qw/$VERSION/;
 
-$VERSION="0.03";
+$VERSION="0.04";
 
 XSLoader::load('Net::LibLO', $VERSION);
 
@@ -289,7 +289,7 @@ L<Net::LibLO::Bundle>
 
 L<Net::LibLO::Message>
 
-L<http://plugin.org.uk/liblo/>
+L<http://liblo.sourceforge.net/>
 
 =head1 AUTHOR
 

@@ -1,6 +1,6 @@
 ---
 name: Net-LibLO
-version: 0.03
+version: 0.04
 author:
   - Nicholas J. Humfrey <njh@aelius.com>
 abstract: Perl interface for liblo Lightweight OSC library
@@ -12,11 +12,11 @@ build_requires:
 provides:
   Net::LibLO:
     file: lib/Net/LibLO.pm
-    version: 0.03
+    version: 0.04
   Net::LibLO::Address:
     file: lib/Net/LibLO/Address.pm
   Net::LibLO::Bundle:
     file: lib/Net/LibLO/Bundle.pm
   Net::LibLO::Message:
     file: lib/Net/LibLO/Message.pm
-generated_by: Module::Build version 0.2609
+generated_by: Module::Build version 0.2611
